@@ -60,13 +60,10 @@ npm run dev
 
 ## 🛠️ Tecnologias Utilizadas
 
-* Front-end
 * [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 * [React](https://pt-br.reactjs.org/docs/getting-started.html)
 * [Styled-Components](https://styled-components.com/docs)
 * [Axios](https://axios-http.com/ptbr/docs/intro)
-
-* Back-end
 * [Typescript](https://www.typescriptlang.org/docs/)
 * [Express](https://expressjs.com/)
 * [Knex](https://knexjs.org/)
