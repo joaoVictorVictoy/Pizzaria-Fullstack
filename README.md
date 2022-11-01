@@ -74,4 +74,4 @@ npm run dev
 ## ✒️ Autores
 Perfil      | Link do perfil no GITHUB
 --------- | ------
-[<img src="https://avatars.githubusercontent.com/u/104728673?v=4" width="75px;"/>](https://github.com/joaoVictorVictoy) | [João Victor Victoy](https://github.com/joaoVictorVictoy)
+[<img src="https://avatars.githubusercontent.com/u/104728673?v=4" width="100px;"/>](https://github.com/joaoVictorVictoy) | [João Victor Victoy](https://github.com/joaoVictorVictoy)
