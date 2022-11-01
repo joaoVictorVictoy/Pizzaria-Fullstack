@@ -1,17 +1,12 @@
-# Pizzaria-Fullstack
+# Back-end Case Pizzaria
+<img src="./src/assets/Deliver-Pizzaria.png" height="200px" width=100%>
 
 
 ## 🚀 Descrição do Projeto
 
-
-Nesse projeto tive o desafio de realizar a integração com a base de dados além da estilização.
-A intenção é criar uma API sucinta onde se pudesse fazer a solicitação das pizzas já cadastradas gerando um Ordem de pizzas. E também onde poderia requisitar todas as ordem de pizzas já feitas. 
+A intenção é criar uma API onde se pudesse fazer a solicitação das pizzas já cadastradas gerando um Ordem de pizzas. E também onde poderia requisitar todas as ordem de pizzas já feitas. 
 
 ## 📋 Funcionalidades
-
-[Link do Deploy](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-
-
 
 * Get Pizzas - Aqui e feita a requisição das pizzas 
 * Post Order - Por onde é feita a ordem de serviço de pizza
@@ -23,16 +18,6 @@ A intenção é criar uma API sucinta onde se pudesse fazer a solicitação das 
 
 O que será necessário para executar seu projeto na máquina de outra pessoa
 
-* Front-end
-```
-// Instale node_modules
-npm install
-
-// Rode a aplicação 
-npm run start
-```
-
-* Back-end
 ```
 // Instalar node_modules
 npm install
@@ -40,19 +25,14 @@ npm install
 // Realizar a migração do banco de dados
 npm run migrations
 
-// Rode a aplicação
+// Rodar a aplicação
 npm run dev
 ```
 
 ## 🛠️ Tecnologias Utilizadas
 
-* Front-end
-* [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-* [React](https://pt-br.reactjs.org/docs/getting-started.html)
-* [Styled-Components](https://styled-components.com/docs)
-* [Axios](https://axios-http.com/ptbr/docs/intro)
+Mencione as ferramentas que você usou para criar seu projeto
 
-* Back-end
 * [Typescript](https://www.typescriptlang.org/docs/)
 * [Express](https://expressjs.com/)
 * [Knex](https://knexjs.org/)
