@@ -1,4 +1,5 @@
 # Pizzaria-Fullstack
+<img src="https://user-images.githubusercontent.com/104728673/199318335-8616ab54-3609-48ce-891b-d77cc762082e.png" height="200px" width="100%"/>
 
 
 ## 🚀 Descrição do Projeto
@@ -9,8 +10,16 @@ A intenção é criar uma API sucinta onde se pudesse fazer a solicitação das 
 
 ## 📋 Funcionalidades
 
-[Link do Deploy](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+🖼️ Imagens / Clique para ver melhor 
 
+ Tela principal | Carrinho com Pizza | Solicitando pedido | Modal de pedido bem-sucedido | GIF |
+| -------------- | ------------------ | ------------------ | --------------------------- | ----- |
+ ![Tela principal](https://user-images.githubusercontent.com/104728673/199320077-57e9508c-74aa-41b9-9a54-3cb02d60bda9.png) | ![Carrinho com Pizza](https://user-images.githubusercontent.com/104728673/199320341-3006a599-e2b4-4097-b6bf-697693b1000f.png) | ![Solicitando pedido](https://user-images.githubusercontent.com/104728673/199320801-317a30ee-a63d-44f6-ac46-905183c1767e.png) | ![Modal de pedido bem-sucedido](https://user-images.githubusercontent.com/104728673/199321040-29ffda9e-d295-4b62-a763-c9ae86c099f4.png) |![pizzeria-fullstack](https://user-images.githubusercontent.com/104728673/199323158-e81c07c5-91de-4a1d-8abb-3add02172e91.gif)
+
+
+
+
+[Link do Deploy](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 
 * Get Pizzas - Aqui e feita a requisição das pizzas 
@@ -18,6 +27,11 @@ A intenção é criar uma API sucinta onde se pudesse fazer a solicitação das 
 * Get Orders - Imprime todas as requisições de pedidos ja feitos.
 
 [Acesse o Postman](https://documenter.getpostman.com/view/21555368/2s8YRjqE15)
+
+## 🌈 Paleta de cores Utilizadas
+| Preto  | Cinza  |  Amarelo | Laranja | Verde | 
+| :------: | :------: |   :--------: | :--------:| :------: |
+| #191919 | #969AB0  |  #FFAA2C  | #FD5C2E | #48D05F |
 
 ### 🔧 Getting Started / Configurações de Ambiente / Setup / Instalação
 
