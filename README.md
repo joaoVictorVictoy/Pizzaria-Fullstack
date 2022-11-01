@@ -19,7 +19,7 @@ A intenção é criar uma API sucinta onde se pudesse fazer a solicitação das 
 
 
 
-[Link do Deploy](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[Link do Deploy](https://pizzaria-fullstack.vercel.app/)
 
 
 * Get Pizzas - Aqui e feita a requisição das pizzas 
